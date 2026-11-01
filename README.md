@@ -1,4 +1,4 @@
-# algotrada-com
+# AlgoTrada
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,96 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-algotrada-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://algotrada.com/
+AlgoTrada builds trading technology for professional financial markets, offering a platform that connects to crypto exchanges, runs rule‑based strategies, and includes a kill‑switch to protect capital. The system supports multiple exchanges, provides tiered pricing, and operates as software‑as‑a‑service without custodial responsibilities. It emphasizes transparency, real‑time monitoring, and AI‑driven optimization, aiming to democratize algorithmic trading for both individual and institutional users.
+
+**Areas:** Finance · Crypto · AlgorithmicTrading · Automation · SaaS
+
+## AlgoTrada on APIs.io
+
+Everything profiled for AlgoTrada is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/algotrada-com/](https://apis.io/providers/algotrada-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [AlgoTrada API](https://apis.io/apis/algotrada-com/algotrada-api/) — AlgoTrada trading platform API (no public documentation found).
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Algotrada Com Domain Security](https://apis.io/security/algotrada-com/algotrada-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Algotrada Com Plans Pricing](https://apis.io/plans/algotrada-com/algotrada-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://algotrada.com/)
+- [Blog](https://www.algotrada.com/blog)
+- [Terms of service](https://www.algotrada.com/terms)
+- [Privacy policy](https://www.algotrada.com/privacy)
+- [Status](https://www.algotrada.com/status)
+
+## API Evangelist rating
+
+**Kin Score 18.6** — emerging · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 49.5 |
+
+**Agent readiness 8.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/algotrada-com/](https://apis.io/providers/algotrada-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AlgoTrada: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/algotrada-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
